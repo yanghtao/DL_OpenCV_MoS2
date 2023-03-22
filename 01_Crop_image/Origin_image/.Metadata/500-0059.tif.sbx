@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<DXScaleBarSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.leica.com">
+  <IsShowScaleBar>true</IsShowScaleBar>
+  <IsBurnIn>false</IsBurnIn>
+  <HasPendingBurnIn>false</HasPendingBurnIn>
+  <LineThickness>3</LineThickness>
+  <SignificantDigits>2</SignificantDigits>
+  <Size>50.237430594737816</Size>
+  <ImageSize>
+    <Width>1024</Width>
+    <Height>768</Height>
+  </ImageSize>
+  <Alpha>0</Alpha>
+  <RotationAngle>0</RotationAngle>
+  <IsShowZoomFactor>false</IsShowZoomFactor>
+  <ZoomFactor>0</ZoomFactor>
+  <IsShowActualSize>false</IsShowActualSize>
+  <IsSnapToOrigin>false</IsSnapToOrigin>
+  <RenderMode>Normal</RenderMode>
+  <ScaleBarData>
+    <Location>
+      <X>0.9913025</X>
+      <Y>0.98828125</Y>
+    </Location>
+    <Length>0.20965449512004852</Length>
+    <Position>BottomRight</Position>
+  </ScaleBarData>
+  <ScaleBarLocation>
+    <X>0.9913025</X>
+    <Y>0.98828125</Y>
+  </ScaleBarLocation>
+  <ScaleBarLength>0.20965449512004852</ScaleBarLength>
+  <ScaleBarPosition>BottomRight</ScaleBarPosition>
+  <LabelFont>
+    <Size>15.75</Size>
+    <Name>Microsoft YaHei UI</Name>
+    <Style>Regular</Style>
+  </LabelFont>
+  <ForegroundColour>-1</ForegroundColour>
+  <BackgroundColour>-16777216</BackgroundColour>
+  <ScaleBarMode>UserLength</ScaleBarMode>
+  <ScaleBarStyle>Horizontal</ScaleBarStyle>
+  <ScaleBarEndSize>Medium</ScaleBarEndSize>
+</DXScaleBarSettings>
