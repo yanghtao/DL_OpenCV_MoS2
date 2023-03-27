@@ -5,5 +5,3 @@
   python == 3.8
   opencv-python
   
-## 例子
-  
